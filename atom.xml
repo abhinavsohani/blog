@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://thecodinghouse.github.io//github/atom.xml" rel="self"/>
   <link href="http://thecodinghouse.github.io//github/"/>
-  <updated>2013-09-20T12:41:37+05:30</updated>
+  <updated>2013-10-06T00:47:10+05:30</updated>
   <id>http://thecodinghouse.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[my-title]]></title>
+    <link href="http://thecodinghouse.github.io//github/blog/2013/10/06/my-title/"/>
+    <updated>2013-10-06T00:42:00+05:30</updated>
+    <id>http://thecodinghouse.github.io//github/blog/2013/10/06/my-title</id>
+    <content type="html"><![CDATA[<p>hail mogembo</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://thecodinghouse.github.io//github/blog/2013/10/06/"/>
+    <updated>2013-10-06T00:41:00+05:30</updated>
+    <id>http://thecodinghouse.github.io//github/blog/2013/10/</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
